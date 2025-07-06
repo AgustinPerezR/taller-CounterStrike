@@ -1,4 +1,0 @@
-CMakeLists.txt linguist-detectable=false
-*.cmake linguist-detectable=false
-*.mak linguist-detectable=false
-
